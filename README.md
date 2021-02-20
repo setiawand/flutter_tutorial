@@ -7,6 +7,6 @@ Following flutter tutorial https://flutter.dev/docs/reference/tutorials
 
 ### What you’ll learn
 
-How Flutter’s layout mechanism works.
-How to lay out widgets vertically and horizontally.
-How to build a Flutter layout.
+* How Flutter’s layout mechanism works.
+* How to lay out widgets vertically and horizontally.
+* How to build a Flutter layout.
