@@ -1,12 +1,12 @@
 # flutter_tutorial
 
-Following flutter tutorial https://flutter.dev/docs/reference/tutorials
+Following flutter tutorial https://flutter.dev/docs/development/ui/interactive
 
-## Building layouts
+## Adding interactivity to your Flutter app
 
 
 ### What you’ll learn
 
-How Flutter’s layout mechanism works.
-How to lay out widgets vertically and horizontally.
-How to build a Flutter layout.
+* How to respond to taps.
+* How to create a custom widget.
+* The difference between stateless and stateful widgets.
