@@ -1,6 +1,6 @@
 # flutter_tutorial
 
-Following flutter tutorial https://flutter.dev/docs/reference/tutorials
+Following flutter tutorial https://flutter.dev/docs/development/ui/layout/tutorial
 
 ## Building layouts
 
